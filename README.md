@@ -20,4 +20,4 @@ processing, computer vision, and robotics.
 
 * Project 2 - [Multi-Agent Search](https://www.cs.rpi.edu/~xial/Teaching/2019SAI/projects/tutorial/tutorial.html): Implemented multiagent Minimax, Alpha-Beta Pruning, and Expectimax algorithms, as well as designed evaluation functions.
 
-* Project 3 - [Reinforcement Learning](https://www.cs.rpi.edu/~xial/Teaching/2019SAI/projects/reinforcement/reinforcement.html): Currently implementing model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
+* Project 3 - [Reinforcement Learning](https://www.cs.rpi.edu/~xial/Teaching/2019SAI/projects/reinforcement/reinforcement.html): Implemented model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
